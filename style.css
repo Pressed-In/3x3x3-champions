@@ -20,7 +20,7 @@ body {
 #spacer {
 
 	margin: 0 auto;
-	width: 1650px;
+	width: 1725px;
 
 }
 
@@ -28,7 +28,8 @@ body {
 	margin: 0 auto;
 	display: flex;
 	flex-direction: column;
-	width: 100%;
+	width: 1725px;
+	/*width: 100%;*/
 	height: 150px;
 	background-color: #587390;
 	border-bottom: 2px solid black;
@@ -68,7 +69,7 @@ h1 {
   text-align: center;
 
 
-  font: 4vh Tahoma, Helvetica, Arial, Sans-Serif;
+  font: 35px Tahoma, Helvetica, Arial, Sans-Serif;
   text-shadow: 0px 2px 3px #555;
   letter-spacing: 1.5px;
 
@@ -77,8 +78,8 @@ h1 {
 
 h2 {
   text-align: center;
-  font-size: 1.5vh;
-  font: 1.5vh Tahoma, Helvetica, Arial, Sans-Serif;
+  font-size: 15px;
+  font: 15px Tahoma, Helvetica, Arial, Sans-Serif;
   letter-spacing: 1px;
   margin: 0 auto;
 }
